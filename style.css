@@ -14,9 +14,12 @@ body {
     justify-content: center;
 }
 
-h1{
-    display:none;
+
+h1 {
+    font-size:13px;
+    font-weight: 400;
 }
+
 
 .testimonials-grid {
     max-width: 1200px;
