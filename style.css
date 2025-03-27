@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
-    background-color: #ecf2f8;
+    background-color: hsl(214, 17%, 92%);
     padding: 20px;
     min-height: 100vh;
     display: flex;
